@@ -1,0 +1,11 @@
+bin
+node_modules
+dist
+.DS_Store
+.sass-cache
+.tmp
+app/bower_components
+Gemfile.lock
+watch.ini
+version.json
+*.sublime-*
