@@ -9,15 +9,15 @@ angular.module('app').controller('TemplateController', function ($scope) {
                 id: 'jira',
                 dataRow: 1,
                 dataCol: 1,
-                dataSizeX: 3,
-                dataSizeY: 6
+                dataSizeX: 6,
+                dataSizeY: 3
             },
             {
                 id: 'git',
                 dataRow: 1,
                 dataCol: 1,
-                dataSizeX: 3,
-                dataSizeY: 6
+                dataSizeX: 6,
+                dataSizeY: 3
             },
             {
                 id: 'stock',
@@ -29,14 +29,14 @@ angular.module('app').controller('TemplateController', function ($scope) {
             {
                 id: 'clock',
                 dataRow: 1,
-                dataCol: 2,
+                dataCol: 1,
                 dataSizeX: 2,
                 dataSizeY: 2
             },
             {
                 id: 'weather',
                 dataRow: 1,
-                dataCol: 5,
+                dataCol: 1,
                 dataSizeX: 2,
                 dataSizeY: 2
             }
