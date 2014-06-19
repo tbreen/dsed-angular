@@ -4,31 +4,38 @@
     <meta charset="UTF-8">
     <title>DSED Angular</title>
     <link rel="stylesheet" href="/css/vendor/normalize.css">
+    <link rel="stylesheet" href="/css/vendor/jquery.gridster.min.css">
     <link rel="stylesheet" href="/css/main.css">
 </head>
 <body ng-app="app">
 
     <div ng-controller="TemplateController">
-        <h1>{{ model.temp }}</h1>
-        <button ng-click="action.temp()">CHANGE</button>
+        <div class="gridster">
+            <ul>
+                <li ng-repeat="widget in model.widgets" data-row="{{widget.dataRow}}" data-col="{{widget.dataCol}}" data-sizex="{{widget.dataSizeX}}" data-sizey="{{widget.dataSizeY}}">{{widget.id}}</li>
+
+            </ul>
+        </div>
     </div>
 
     <!-- #### Vendor Scripts #### -->
     <script src="/js/vendor/angular.js"></script>
     <script src="/js/vendor/angular-route.js"></script>
     <script src="/js/vendor/es5-shim.js"></script>
+    <script src="/js/vendor/jquery-2.1.1.min.js"></script>
+    <script src="/js/vendor/jquery.gridster.min.js"></script>
 
     <!-- #### Project Scripts #### -->
     <script src="/js/app.js"></script>
 
-        <!-- Controllers -->
-        <script src="/js/controllers/template.js"></script>
+    <!-- Controllers -->
+    <script src="/js/controllers/template.js"></script>
 
-        <!-- Factories -->
-        <script src="/js/factories/template.js"></script>
+    <!-- Factories -->
+    <script src="/js/factories/template.js"></script>
 
-        <!-- Directives -->
-        <script src="/js/directives/template.js"></script>
+    <!-- Directives -->
+    <script src="/js/directives/template.js"></script>
 
 </body>
 </html>

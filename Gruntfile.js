@@ -78,7 +78,7 @@ module.exports = function (grunt) {
 
     // run development instance
     grunt.registerTask('dev', function (target) {
-        
+
         grunt.task.run([
             'clear',
             'clean:dev',
