@@ -12,7 +12,9 @@
     <div ng-controller="TemplateController">
         <div class="gridster">
             <ul>
-                <li ng-repeat="widget in model.widgets" data-row="{{widget.dataRow}}" data-col="{{widget.dataCol}}" data-sizex="{{widget.dataSizeX}}" data-sizey="{{widget.dataSizeY}}">{{widget.id}}</li>
+                <li ng-repeat="widget in model.widgets" data-row="{{widget.dataRow}}" data-col="{{widget.dataCol}}" data-sizex="{{widget.dataSizeX}}" data-sizey="{{widget.dataSizeY}}">
+                    <div ng-include="widget.template"></div>
+                </li>
 
             </ul>
         </div>
