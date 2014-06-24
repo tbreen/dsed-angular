@@ -1,1 +1,25 @@
-Weather
+<!--
+    Weather
+        data stubbing/retrieval
+        1 day with highs and lows
+        location switching
+-->
+
+<div class="weather-widget"
+     ng-controller="WeatherController">
+    
+    <header class="weather-header">
+        <h1 class="weather-city"></h1>
+        <h2 class="weather-current">
+            <span class="weather-status"></span>
+            <span class="weather-temperature"></span>
+        </h2>
+    </header>
+    <dl class="weather-details">
+        <dt class="weather-day"></dt>
+        <dd class="weather-range">
+            <span class="weather-high"></span>
+            <span class="weather-low"></span>
+        </dd>
+    </dl>
+</div>
