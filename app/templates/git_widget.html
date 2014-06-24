@@ -6,16 +6,23 @@
     </header>
 
     <h3 class="git-projects-title">Projects</h3>
-    <ul class="git-projects-list"
-        ng-repeat="project in model.projects">
-        <li>{{ project.name }}</li>
+    <ul class="git-projects-list">
+        <li ng-repeat="project in model.projects">{{ project.name }}</li>
     </ul>
 
     <h3 class="git-projects-title">Recent Commits</h3>
-    <ul class="git-commits-list"
-        ng-repeat="commit in model.commits">
-        <li>{{ commit.title }}</li>
-    </ul>
+    <flex-slider
+        slide="commit in model.commits track by commit.id"
+        control-nav="true"
+        randomize="true">
+        <li>
+            <p>
+                <img class="git-commit-thumbnail"
+                    ng-src="https://git.epam.com{{commit.thumbnail.url}}">
+                {{ commit.updated | date:'medium' }} - <a href="{{ commit.link.href }}">{{ commit.title }}</a>
+            </p>
+        </li>
+    </flex-slider>
 
     <!--
     <li>

@@ -5,7 +5,8 @@ angular.module('app')
 
     // model
     var model = $scope.model = {
-        foo: "bar"
+        projects: [],
+        commits: []
     };
 
     // actions

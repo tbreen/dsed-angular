@@ -1,7 +1,8 @@
 'use strict';
 
 angular.module('app', [
-    'ngRoute'
+    'ngRoute',
+    'angular-flexslider'
 ]).config(function () {
     // configure routes here
 });

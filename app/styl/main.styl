@@ -1,11 +1,20 @@
 @import '_*.styl'
 
 .git-widget
-  header
-    //display: none
+  h3
+    font-size: 14px
   ul
     overflow: hidden
   .git-projects-list
-    //display: none
-  .git-commits-list
-    //display: none
+    column-count: 4
+    -moz-column-count: 4
+    -webkit-column-count: 4
+    li
+      font-size: 11px
+  img.git-commit-thumbnail
+    width: 40px
+    height: 40px
+    display: inline
+    margin: 0px 5px 0px 10px
+  .flexslider-container
+    margin: 8px
