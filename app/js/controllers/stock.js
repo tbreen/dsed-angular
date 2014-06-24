@@ -2,21 +2,12 @@
 
 var app = angular.module('app');
 
+app.controller('StockController', ['$http', '$scope', function($http, $scope) {
 
-app.factory('Stock', ['$http', '$q', function($http, $q) {
-    var stock = $q.defer();
+    $scope.stocks = [];
 
     $http.get('js/data/stock_data.json').success(function (data) {
-        stock.resolve(data);
-    });
-
-    return stock.promise;
-}]);
-
-app.controller('StockController', ['Stock', '$scope', function(Stock, $scope) {
-
-    Stock.then(function(data){
-        $scope.data = data[0];
+        $scope.stocks = data;
     });
 
 }]);
