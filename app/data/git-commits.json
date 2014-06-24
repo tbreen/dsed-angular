@@ -1,0 +1,650 @@
+{
+    "title": "Dashboard feed - Christian Braddock",
+    "link": [
+        {
+            "href": "https://git.epam.com/dashboard.atom",
+            "rel": "self"
+        },
+        {
+            "href": "https://git.epam.com/dashboard",
+            "rel": "alternate"
+        }
+    ],
+    "id": "https://git.epam.com/projects",
+    "updated": "2014-06-24T15:15:50Z",
+    "entry": [
+        {
+            "id": "tag:git.epam.com,2014-06-24:350385",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/commits/v0.10a.87.201406241514UTC"
+            },
+            "title": "Kirill Kukhovets pushed new tag v0.10a.87.201406241514UTC at LIBG-DAWN",
+            "updated": "2014-06-24T15:15:50Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/180/kirill_kukhovets.png"
+            },
+            "author": {
+                "name": "Kirill Kukhovets",
+                "email": "kirill_kukhovets@epam.com"
+            },
+            "summary": {
+                "div": {}
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350381",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/commits/v0.10a.87.201406241513UTC"
+            },
+            "title": "Kirill Kukhovets pushed new tag v0.10a.87.201406241513UTC at LIBG-DAWN",
+            "updated": "2014-06-24T15:14:42Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/180/kirill_kukhovets.png"
+            },
+            "author": {
+                "name": "Kirill Kukhovets",
+                "email": "kirill_kukhovets@epam.com"
+            },
+            "summary": {
+                "div": {}
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350347",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/commits/v0.10a.87.201406241458UTC"
+            },
+            "title": "Kirill Kukhovets pushed new tag v0.10a.87.201406241458UTC at LIBG-DAWN",
+            "updated": "2014-06-24T14:58:57Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/180/kirill_kukhovets.png"
+            },
+            "author": {
+                "name": "Kirill Kukhovets",
+                "email": "kirill_kukhovets@epam.com"
+            },
+            "summary": {
+                "div": {}
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350346",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/commits/feature/wrong_order_of_options_in_refine_menu_fr10a_TSTB-8487"
+            },
+            "title": "Mikhail Fiadosenka deleted branch feature/wrong_order_of_options_in_refine_me...",
+            "updated": "2014-06-24T14:58:20Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/1928/mikhail_fiadosenka.png"
+            },
+            "author": {
+                "name": "Mikhail Fiadosenka",
+                "email": "mikhail_fiadosenka@epam.com"
+            },
+            "summary": {
+                "div": {}
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350345",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/merge_requests/104"
+            },
+            "title": "Mikhail Fiadosenka accepted MR #9481: Feature/wrong order of options in refin...",
+            "updated": "2014-06-24T14:58:19Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/1928/mikhail_fiadosenka.png"
+            },
+            "author": {
+                "name": "Mikhail Fiadosenka",
+                "email": "mikhail_fiadosenka@epam.com"
+            },
+            "summary": {}
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350344",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/compare/7a5595d23575c872311036cd3c0126a0ebe1a4f6...59a961f9adb65fc0bdda97f2eedfa55cc3c350d6"
+            },
+            "title": "Mikhail Fiadosenka pushed to branch release/fr10a at LIBG-DAWN",
+            "updated": "2014-06-24T14:58:17Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/1928/mikhail_fiadosenka.png"
+            },
+            "author": {
+                "name": "Mikhail Fiadosenka",
+                "email": "mikhail_fiadosenka@epam.com"
+            },
+            "summary": {
+                "div": {
+                    "p": [
+                        {
+                            "strong": "Mikhail Fiadosenka",
+                            "a": {
+                                "href": "/libg-dawn/commit/59a961f9adb65fc0bdda97f2eedfa55cc3c350d6",
+                                "#text": "(#59a961f9)"
+                            },
+                            "i": "at\n24 Jun 17:58"
+                        },
+                        {
+                            "strong": "Kiryl Dziamura",
+                            "a": {
+                                "href": "/libg-dawn/commit/e3d55e1184dfa62c1f3f1a206a6a37a682db6819",
+                                "#text": "(#e3d55e11)"
+                            },
+                            "i": "at\n24 Jun 17:50"
+                        }
+                    ],
+                    "blockquote": [
+                        {
+                            "p": [
+                                "Merge branch 'feature/wrong_order_of_options_in_refine_menu_fr10a_TSTB-8487' into 'release/fr10a'",
+                                "Feature/wrong order of options in refine menu fr10a tstb 8487",
+                                "remove branch"
+                            ]
+                        },
+                        {
+                            "p": "[TSTB-8487] change order of menu items"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350334",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/merge_requests/104"
+            },
+            "title": "Kiryl Dziamura opened MR #9481: Feature/wrong order of options in refine menu...",
+            "updated": "2014-06-24T14:55:15Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/3553/Untitled.png"
+            },
+            "author": {
+                "name": "Kiryl Dziamura",
+                "email": "kiryl_dziamura@epam.com"
+            },
+            "summary": {}
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350328",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/commits/feature/wrong_order_of_options_in_refine_menu_fr10a_TSTB-8487"
+            },
+            "title": "Kiryl Dziamura pushed new branch feature/wrong_order_of_options_in_refine_men...",
+            "updated": "2014-06-24T14:52:41Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/3553/Untitled.png"
+            },
+            "author": {
+                "name": "Kiryl Dziamura",
+                "email": "kiryl_dziamura@epam.com"
+            },
+            "summary": {
+                "div": {}
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350297",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/commits/v0.10a.87.201406241442UTC"
+            },
+            "title": "Kirill Kukhovets pushed new tag v0.10a.87.201406241442UTC at LIBG-DAWN",
+            "updated": "2014-06-24T14:43:50Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/180/kirill_kukhovets.png"
+            },
+            "author": {
+                "name": "Kirill Kukhovets",
+                "email": "kirill_kukhovets@epam.com"
+            },
+            "summary": {
+                "div": {}
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350271",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/merge_requests/103"
+            },
+            "title": "Kiryl Dziamura opened MR #9480: Feature/metadata doesnt appear in guide after...",
+            "updated": "2014-06-24T14:34:24Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/3553/Untitled.png"
+            },
+            "author": {
+                "name": "Kiryl Dziamura",
+                "email": "kiryl_dziamura@epam.com"
+            },
+            "summary": {}
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350270",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/commits/feature/metadata_doesnt_appear_in_guide_after_unlock_TSTB-10270"
+            },
+            "title": "Kiryl Dziamura pushed new branch feature/metadata_doesnt_appear_in_guide_afte...",
+            "updated": "2014-06-24T14:33:44Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/3553/Untitled.png"
+            },
+            "author": {
+                "name": "Kiryl Dziamura",
+                "email": "kiryl_dziamura@epam.com"
+            },
+            "summary": {
+                "div": {}
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350266",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/merge_requests/102"
+            },
+            "title": "Kirill Kukhovets accepted MR #9479: Feature/tstb 10165 unsubscribed message u...",
+            "updated": "2014-06-24T14:27:34Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/180/kirill_kukhovets.png"
+            },
+            "author": {
+                "name": "Kirill Kukhovets",
+                "email": "kirill_kukhovets@epam.com"
+            },
+            "summary": {}
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350265",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/commits/feature/TSTB-10165-Unsubscribed-message-update-on-channel-bar"
+            },
+            "title": "Kirill Kukhovets deleted branch feature/TSTB-10165-Unsubscribed-message-updat...",
+            "updated": "2014-06-24T14:27:34Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/180/kirill_kukhovets.png"
+            },
+            "author": {
+                "name": "Kirill Kukhovets",
+                "email": "kirill_kukhovets@epam.com"
+            },
+            "summary": {
+                "div": {}
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350264",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/compare/9e443ac7cca5680fbe239b605d5a065681da5750...7a5595d23575c872311036cd3c0126a0ebe1a4f6"
+            },
+            "title": "Kirill Kukhovets pushed to branch release/fr10a at LIBG-DAWN",
+            "updated": "2014-06-24T14:27:32Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/180/kirill_kukhovets.png"
+            },
+            "author": {
+                "name": "Kirill Kukhovets",
+                "email": "kirill_kukhovets@epam.com"
+            },
+            "summary": {
+                "div": {
+                    "p": [
+                        {
+                            "strong": "Kirill Kukhovets",
+                            "a": {
+                                "href": "/libg-dawn/commit/7a5595d23575c872311036cd3c0126a0ebe1a4f6",
+                                "#text": "(#7a5595d2)"
+                            },
+                            "i": "at\n24 Jun 17:27"
+                        },
+                        {
+                            "strong": "Aliaksandr Manzhula",
+                            "a": {
+                                "href": "/libg-dawn/commit/77b93ac19df8808d9aae906afe27dc9ed9b0c01f",
+                                "#text": "(#77b93ac1)"
+                            },
+                            "i": "at\n24 Jun 17:21"
+                        }
+                    ],
+                    "blockquote": [
+                        {
+                            "p": [
+                                "Merge branch 'feature/TSTB-10165-Unsubscribed-message-update-on-channel-bar' into 'release/fr10a'",
+                                "Feature/tstb 10165 unsubscribed message update on channel bar",
+                                "[TSTB-10165] Unsubscribed message update on channel bar"
+                            ]
+                        },
+                        {
+                            "p": "[TSTB-10165] unsubscribed message update on channel bar"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350252",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/merge_requests/102"
+            },
+            "title": "Aliaksandr Manzhula opened MR #9479: Feature/tstb 10165 unsubscribed message ...",
+            "updated": "2014-06-24T14:23:52Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/3397/a_2f7e5437.jpg"
+            },
+            "author": {
+                "name": "Aliaksandr Manzhula",
+                "email": "aliaksandr_manzhula@epam.com"
+            },
+            "summary": {}
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350246",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/commits/feature/TSTB-10165-Unsubscribed-message-update-on-channel-bar"
+            },
+            "title": "Aliaksandr Manzhula pushed new branch feature/TSTB-10165-Unsubscribed-message...",
+            "updated": "2014-06-24T14:22:00Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/3397/a_2f7e5437.jpg"
+            },
+            "author": {
+                "name": "Aliaksandr Manzhula",
+                "email": "aliaksandr_manzhula@epam.com"
+            },
+            "summary": {
+                "div": {}
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350220",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/commits/feature/memoryEficientKeyEvents"
+            },
+            "title": "Yauheni Zara pushed new branch feature/memoryEficientKeyEvents at LIBG-DAWN",
+            "updated": "2014-06-24T14:13:12Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/1929/yauheni_zara.png"
+            },
+            "author": {
+                "name": "Yauheni Zara",
+                "email": "yauheni_zara@epam.com"
+            },
+            "summary": {
+                "div": {}
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350197",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/merge_requests/101"
+            },
+            "title": "Aliaksandr Manzhula opened MR #9476: Feature/tstb 10165 unsubscribed message ...",
+            "updated": "2014-06-24T14:05:13Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/3397/a_2f7e5437.jpg"
+            },
+            "author": {
+                "name": "Aliaksandr Manzhula",
+                "email": "aliaksandr_manzhula@epam.com"
+            },
+            "summary": {}
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350191",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/commits/feature/TSTB-10165-Unsubscribed-message-update"
+            },
+            "title": "Aliaksandr Manzhula pushed new branch feature/TSTB-10165-Unsubscribed-message...",
+            "updated": "2014-06-24T14:00:44Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/3397/a_2f7e5437.jpg"
+            },
+            "author": {
+                "name": "Aliaksandr Manzhula",
+                "email": "aliaksandr_manzhula@epam.com"
+            },
+            "summary": {
+                "div": {}
+            }
+        },
+        {
+            "id": "tag:git.epam.com,2014-06-24:350008",
+            "link": {
+                "href": "https://git.epam.com/libg-dawn/compare/4d17ce143f66b0e4e642b5bde5eacc7e783be186...65f05c1cd260745411033ee1c67acb9d29cd0053"
+            },
+            "title": "Yauheni Zara pushed to branch develop at LIBG-DAWN",
+            "updated": "2014-06-24T12:56:38Z",
+            "thumbnail": {
+                "width": "40",
+                "height": "40",
+                "url": "/uploads/user/avatar/1929/yauheni_zara.png"
+            },
+            "author": {
+                "name": "Yauheni Zara",
+                "email": "yauheni_zara@epam.com"
+            },
+            "summary": {
+                "div": {
+                    "p": [
+                        {
+                            "strong": "Yauheni Zara",
+                            "a": {
+                                "href": "/libg-dawn/commit/65f05c1cd260745411033ee1c67acb9d29cd0053",
+                                "#text": "(#65f05c1c)"
+                            },
+                            "i": "at\n24 Jun 15:56"
+                        },
+                        {
+                            "strong": "kirill_kukhovets",
+                            "a": {
+                                "href": "/libg-dawn/commit/9e443ac7cca5680fbe239b605d5a065681da5750",
+                                "#text": "(#9e443ac7)"
+                            },
+                            "i": "at\n24 Jun 15:13"
+                        },
+                        {
+                            "strong": "kirill_kukhovets",
+                            "a": {
+                                "href": "/libg-dawn/commit/9476fdb489aa2994406720601dcea46d74696292",
+                                "#text": "(#9476fdb4)"
+                            },
+                            "i": "at\n24 Jun 15:11"
+                        },
+                        {
+                            "strong": "Andrei Gavrikov",
+                            "a": {
+                                "href": "/libg-dawn/commit/e0153716e65f0b536098ddbe23b63eb04a79f9b3",
+                                "#text": "(#e0153716)"
+                            },
+                            "i": "at\n24 Jun 15:10"
+                        },
+                        {
+                            "strong": "Yauheni Zara",
+                            "a": {
+                                "href": "/libg-dawn/commit/77c9efaef53cec2fc424f987fb15c6769dae585a",
+                                "#text": "(#77c9efae)"
+                            },
+                            "i": "at\n24 Jun 12:17"
+                        },
+                        {
+                            "strong": "Yauheni Zara",
+                            "a": {
+                                "href": "/libg-dawn/commit/0601fa5529f9b6cb95139aedeb060701b3d23b15",
+                                "#text": "(#0601fa55)"
+                            },
+                            "i": "at\n24 Jun 11:53"
+                        },
+                        {
+                            "strong": "Ashton Harris",
+                            "a": {
+                                "href": "/libg-dawn/commit/7f40a9786d97045831cf685f15ea17819c0c6b33",
+                                "#text": "(#7f40a978)"
+                            },
+                            "i": "at\n23 Jun 22:11"
+                        },
+                        {
+                            "strong": "Mikhail Fiadosenka",
+                            "a": {
+                                "href": "/libg-dawn/commit/1e1d37d5b8315e2d0598101c3b5a7507a7ed2d2e",
+                                "#text": "(#1e1d37d5)"
+                            },
+                            "i": "at\n23 Jun 19:15"
+                        },
+                        {
+                            "strong": "Mikhail Fiadosenka",
+                            "a": {
+                                "href": "/libg-dawn/commit/218c559abf50a2b827b2effc43c4984ecb869f4c",
+                                "#text": "(#218c559a)"
+                            },
+                            "i": "at\n23 Jun 19:15"
+                        },
+                        {
+                            "strong": "Mikhail Fiadosenka",
+                            "a": {
+                                "href": "/libg-dawn/commit/d8be1a5056e43ecaf2264e8ff94038340235ea54",
+                                "#text": "(#d8be1a50)"
+                            },
+                            "i": "at\n23 Jun 19:15"
+                        },
+                        {
+                            "strong": "Mikhail Fiadosenka",
+                            "a": {
+                                "href": "/libg-dawn/commit/daaa82ba9ce248bcd9c4aa9346139fffca60bd8e",
+                                "#text": "(#daaa82ba)"
+                            },
+                            "i": "at\n23 Jun 19:14"
+                        },
+                        {
+                            "strong": "Mikhail Fiadosenka",
+                            "a": {
+                                "href": "/libg-dawn/commit/5cf4ff723ef6f8a257f288d902699afd12e63570",
+                                "#text": "(#5cf4ff72)"
+                            },
+                            "i": "at\n23 Jun 19:14"
+                        },
+                        {
+                            "strong": "Kirill Kukhovets",
+                            "a": {
+                                "href": "/libg-dawn/commit/f7da7453d97c032b719df9383dbb3773eb3bf1e4",
+                                "#text": "(#f7da7453)"
+                            },
+                            "i": "at\n23 Jun 18:52"
+                        },
+                        {
+                            "strong": "Aliaksandr Herasimau",
+                            "a": {
+                                "href": "/libg-dawn/commit/af4190bfb84bf756759c05d12eeab85a66e2367f",
+                                "#text": "(#af4190bf)"
+                            },
+                            "i": "at\n23 Jun 18:44"
+                        },
+                        {
+                            "strong": "John Michel",
+                            "a": {
+                                "href": "/libg-dawn/commit/4b15b30a7c88b23cb7d673e61e2b1ebfe7d4d497",
+                                "#text": "(#4b15b30a)"
+                            },
+                            "i": "at\n23 Jun 18:38"
+                        },
+                        {
+                            "i": "... and\n17 more commits"
+                        }
+                    ],
+                    "blockquote": [
+                        {
+                            "p": "Merge branch 'release/fr10a' into develop"
+                        },
+                        {
+                            "p": "Merge branch 'release/fr10a' of git.epam.com:libg-dawn into release/fr10a"
+                        },
+                        {
+                            "p": "Fix deployment"
+                        },
+                        {
+                            "p": "NAF-v1.0.10s4c2r185"
+                        },
+                        {
+                            "p": [
+                                "Merge branch 'feature/TSTB-8883-expiration' into 'release/fr10a'",
+                                "Feature/tstb 8883 expiration",
+                                "The source branch has to be deleted;"
+                            ]
+                        },
+                        {
+                            "p": "[TSTB-10529] - KPI Test for playing and stop recording"
+                        },
+                        {
+                            "p": "TSTB-10515 - Updates lang files, remove spaces before all ?s"
+                        },
+                        {
+                            "p": "Merge branch 'feature/channel_bar_ch_quick_press_TSTB-10282' into release/fr10a"
+                        },
+                        {
+                            "p": "TSTB-10282 Channel Bar: use pending channel on Ch+/-"
+                        },
+                        {
+                            "p": "Player adapter: avoid undefined exceptions"
+                        },
+                        {
+                            "p": "Main Menu: fix long key animation - don't show previews/menus during animation"
+                        },
+                        {
+                            "p": [
+                                "Minor perf. optimization on Main Menu",
+                                "Get rid of unnecessary function invocations."
+                            ]
+                        },
+                        {
+                            "p": [
+                                "Merge branch 'fix/cancelRecordingOperation-refactoring' into 'release/fr10a'",
+                                "Fix/cancel recording operation refactoring"
+                            ]
+                        },
+                        {
+                            "p": "Add even more operation handling fixes"
+                        },
+                        {
+                            "p": "Change SSH Hostname for builds"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
