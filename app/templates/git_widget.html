@@ -1,1 +1,28 @@
-Git
+<div class="git-widget"
+     ng-controller="GitController">
+
+    <header>
+        <h2>Git</h2>
+    </header>
+
+    <h3 class="git-projects-title">Projects</h3>
+    <ul class="git-projects-list"
+        ng-repeat="project in model.projects">
+        <li>{{ project.name }}</li>
+    </ul>
+
+    <h3 class="git-projects-title">Recent Commits</h3>
+    <ul class="git-commits-list"
+        ng-repeat="commit in model.commits">
+        <li>{{ commit.title }}</li>
+    </ul>
+
+    <!--
+    <li>
+        <i class="fa fa-fw state fa-pause"></i>
+        <span class="hour">11:45</span> In pharetra suscipit orci sed viverra.
+        Praesent at.
+    </li>
+    -->
+
+</div>
