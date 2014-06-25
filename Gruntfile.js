@@ -83,6 +83,7 @@ module.exports = function (grunt) {
             'clear',
             'clean:dev',
             'connect:dev',
+            'stylus:compile',
             'watch'
         ]);
     });
