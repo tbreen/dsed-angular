@@ -18,7 +18,7 @@ angular.module('app').controller('TemplateController', function ($scope) {
                 dataRow: 1,
                 dataCol: 1,
                 dataSizeX: 6,
-                dataSizeY: 3,
+                dataSizeY: 6,
                 template: '/templates/git_widget.html'
             },
             {
@@ -26,7 +26,7 @@ angular.module('app').controller('TemplateController', function ($scope) {
                 dataRow: 1,
                 dataCol: 1,
                 dataSizeX: 2,
-                dataSizeY: 2,
+                dataSizeY: 3,
                 template: '/templates/stock_widget.html'
             },
             {
@@ -34,7 +34,7 @@ angular.module('app').controller('TemplateController', function ($scope) {
                 dataRow: 1,
                 dataCol: 1,
                 dataSizeX: 2,
-                dataSizeY: 2,
+                dataSizeY: 3,
                 template: '/templates/clock_widget.html'
             },
             {
@@ -42,7 +42,7 @@ angular.module('app').controller('TemplateController', function ($scope) {
                 dataRow: 1,
                 dataCol: 1,
                 dataSizeX: 2,
-                dataSizeY: 2,
+                dataSizeY: 3,
                 template: '/templates/weather_widget.html'
             }
 
