@@ -18,5 +18,14 @@ html, body {
   }
   li{
     background: gray-1;
+    :after {
+      content: "\0020";
+      display: block;
+      clear: both;
+      visibility:
+      hidden;
+      line-height: 0;
+      height: 0;
+    }
   }
 }
