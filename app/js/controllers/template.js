@@ -27,7 +27,8 @@ angular.module('app').controller('TemplateController', function ($scope) {
                 dataCol: 1,
                 dataSizeX: 2,
                 dataSizeY: 2,
-                template: '/templates/stock_widget.html'
+                template: '/templates/stock_widget.html',
+                className: 'stock-widget'
             },
             {
                 id: 'clock',

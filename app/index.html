@@ -13,7 +13,7 @@
         <div class="gridster">
             <ul>
                 <li ng-repeat="widget in model.widgets" data-row="{{widget.dataRow}}" data-col="{{widget.dataCol}}" data-sizex="{{widget.dataSizeX}}" data-sizey="{{widget.dataSizeY}}">
-                    <div ng-include="widget.template"></div>
+                    <div class="{{widget.className}}" ng-include="widget.template"></div>
                 </li>
 
             </ul>
@@ -21,6 +21,7 @@
     </div>
 
     <!-- #### Vendor Scripts #### -->
+    <script src="http://d3js.org/d3.v3.js" charset="utf-8"></script>
     <script src="/js/vendor/angular.js"></script>
     <script src="/js/vendor/angular-route.js"></script>
     <script src="/js/vendor/es5-shim.js"></script>
