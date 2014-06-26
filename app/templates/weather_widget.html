@@ -5,9 +5,9 @@
         location switching
 -->
 
-<div class="weather-widget"
+<!-- <div class="weather-widget"
      ng-controller="WeatherController">
-    
+
     <header class="weather-header">
         <h1 class="weather-city"></h1>
         <h2 class="weather-current">
@@ -22,4 +22,14 @@
             <span class="weather-low"></span>
         </dd>
     </dl>
+</div> -->
+
+Weather Widget
+
+<div ng-controller="WeatherController as weather">
+    <div ng-repeat="weather in weather.location">
+        {{weather.latitude}}, {{weather.longitude}}:
+        <br>
+        {{weather.currently.temperature}}℉
+    </div>
 </div>
